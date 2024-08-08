@@ -1,4 +1,14 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Ignore Sentry configuration files
+sentry.client.config.ts
+sentry.edge.config.ts
+sentry.server.config.ts
+sentry.client.config.js
+sentry.edge.config.js
+sentry.server.config.js
+sentry.properties
+
+
 
 # dependencies
 /node_modules
